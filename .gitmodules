@@ -1,0 +1,6 @@
+[submodule "ekster"]
+	path = ekster
+	url = git@github.com:TNO-IoT/ekster.git
+[submodule "tests"]
+	path = tests
+	url = git@github.com:TNO-IoT/testing-xep-0347.git
